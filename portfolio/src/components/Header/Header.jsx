@@ -1,6 +1,6 @@
 import { useState } from "react";
 import { navItems } from "../../Data";
-import { ArrowUpRight, Menu } from "lucide-react";
+import { ArrowUpRight, Menu, X } from "lucide-react";
 
 const Header = () => {
 
