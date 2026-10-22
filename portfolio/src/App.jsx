@@ -27,7 +27,7 @@ import Contacts from "./components/Contacts/Contacts";
 
 function App() {
   return (
-    <div className="min-h-screen overflow-hidden bg-[#09090b] text-zinc-300">
+    <div className="min-h-screen overflow-hidden bg-[#09090b] text-zinc-300 relative">
       <Header />
 
       <main className="relative z-10">

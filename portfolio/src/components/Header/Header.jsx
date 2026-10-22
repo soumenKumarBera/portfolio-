@@ -8,7 +8,7 @@ const Header = () => {
   return (
     <>
       <div className="grid-bg pointer-events-none fixed inset-0 -z-0" />
-      <header className="sticky top-0 z-50 border-b border-white/[.08] bg-[#09090b]/85 backdrop-blur-xl">
+      <header className="fixed left-0 right-0 top-0 z-50 border-b border-white/[.08] bg-[#09090b]/85 backdrop-blur-xl">
         <nav className="relative mx-auto flex max-w-6xl items-center justify-between px-5 py-4 sm:px-8">
           <a
             href="#home"
