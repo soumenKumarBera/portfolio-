@@ -24,6 +24,7 @@ import Projecs from "./components/Projeccs/Projecs.";
 
 import Footer from "./components/Footer/Footer";
 import Contacts from "./components/Contacts/Contacts";
+import Learning from "./components/learning/Learning";
 
 function App() {
   return (
@@ -34,6 +35,7 @@ function App() {
         <About />
 
         <Skills />
+        <Learning />
 
         <Projecs />
 
