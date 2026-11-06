@@ -93,26 +93,15 @@ const learningSkills = [
     progress: 40,
   },
   {
-    name: "Generative AI",
-    category: "Artificial Intelligence",
-    description: "Exploring LLMs and building AI-powered applications.",
-    status: "Currently Learning",
-    progress: 30,
-  },
-  {
-    name: "Spring Boot",
-    category: "Backend Development",
-    description: "Practicing REST APIs, security, and backend architecture.",
-    status: "Practicing",
-    progress: 75,
-  },
-  {
-    name: "React.js",
-    category: "Frontend Development",
-    description: "Building responsive and interactive web applications.",
-    status: "Practicing",
-    progress: 70,
-  },
+  name: "SOLID Principles",
+  category: "Software Design",
+  description: "Learning the five SOLID principles to write clean, maintainable, scalable, and loosely coupled Java applications.",
+  status: "Currently Learning",
+  progress: 70,
+},
+  
+  
+  
 ];
 
 export { navItems, skillCategories, projects, socials, learningSkills };
