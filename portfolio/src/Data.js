@@ -99,6 +99,14 @@ const learningSkills = [
   status: "Currently Learning",
   progress: 70,
 },
+
+{
+  name: "Microservices",
+  category: "Backend Development",
+  description: "Learning to design and build scalable, distributed applications using microservices architecture with Java and Spring Boot.",
+  status: "Currently Learning",
+  progress: 70,
+},
   
   
   
