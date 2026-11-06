@@ -23,7 +23,7 @@ const About = () => {
           </div>
           <p className="mb-4 font-mono text-sm text-zinc-500">HELLO, I'M</p>
           <h1 className="max-w-3xl text-5xl font-semibold leading-[1.08] tracking-[-.055em] text-white sm:text-6xl lg:text-7xl">
-            Soumen Kumar <span className="text-lime-300">Bera.</span>
+            Soumen Kumar <span className="text-lime-300">Bera</span>
           </h1>
           <h2 className="mt-6 text-xl font-medium text-zinc-300 sm:text-2xl">
             Java Full Stack Developer{" "}

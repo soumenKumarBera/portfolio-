@@ -3,8 +3,7 @@ import { navItems } from "../../Data";
 import { ArrowUpRight, Menu, X } from "lucide-react";
 
 const Header = () => {
-
-    const [menuOpen, setMenuOpen] = useState(false)
+  const [menuOpen, setMenuOpen] = useState(false);
   return (
     <>
       <div className="grid-bg pointer-events-none fixed inset-0 -z-0" />
@@ -15,9 +14,11 @@ const Header = () => {
             className="flex items-center gap-3"
             aria-label="Go to home"
           >
-            <span className="grid h-9 w-9 place-items-center rounded-xl bg-lime-300 font-mono font-black text-zinc-950">
-              S.
-            </span>
+            <img
+              src="https://res.cloudinary.com/iyodz61y/image/upload/v1793978475/WhatsApp_Image_2026-04-05_at_19.45.21.jpg"
+              alt="Soumen"
+              className="h-10 w-10 rounded-xl border border-lime-300/30 object-cover"
+            />
             <span className="font-semibold tracking-tight text-white">
               soumen<span className="text-lime-300">.dev</span>
             </span>
