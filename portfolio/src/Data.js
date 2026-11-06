@@ -47,6 +47,7 @@ const projects = [
       "MongoDB",
       "Tailwind CSS",
     ],
+    image:"https://res.cloudinary.com/iyodz61y/image/upload/v1793979669/Screenshot_2026-11-06_210955.png",
   },
   // {
   //   number: '02',
