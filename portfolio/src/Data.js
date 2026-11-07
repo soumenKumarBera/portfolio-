@@ -101,13 +101,6 @@ const learningSkills = [
     status: "Currently Learning",
     progress: 40,
   },
-  {
-  name: "SOLID Principles",
-  category: "Software Design",
-  description: "Learning the five SOLID principles to write clean, maintainable, scalable, and loosely coupled Java applications.",
-  status: "Currently Learning",
-  progress: 70,
-},
 
 {
   name: "Microservices",
