@@ -27,6 +27,14 @@ const skillCategories = [
     title: "Tools & Styling",
     skills: ["Git", "GitHub", "Tailwind CSS", "Bootstrap", "Mantine UI"],
   },
+  {
+  title: "Software Design",
+  skills: [
+    "SOLID Principles",
+    "Clean Code",
+    "Object-Oriented Design"
+  ]
+},
   // { title: "Problem Solving", skills: ["DSA", "LeetCode", "Problem Solving"] },
 ];
 
@@ -47,6 +55,7 @@ const projects = [
       "MongoDB",
       "Tailwind CSS",
     ],
+      image:"https://res.cloudinary.com/iyodz61y/image/upload/v1793979669/Screenshot_2026-11-06_210955.png",
   },
   // {
   //   number: '02',

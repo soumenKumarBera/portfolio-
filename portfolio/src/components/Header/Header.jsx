@@ -19,7 +19,9 @@ const Header = () => {
               alt="Soumen"
               className="h-10 w-10 rounded-xl border border-lime-300/30 object-cover"
             />
-            <span className="font-semibold tracking-tight text-white">
+            
+           
+             <span className="font-semibold tracking-tight text-white">
               soumen<span className="text-lime-300">.dev</span>
             </span>
           </a>
