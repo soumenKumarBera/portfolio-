@@ -27,6 +27,14 @@ const skillCategories = [
     title: "Tools & Styling",
     skills: ["Git", "GitHub", "Tailwind CSS", "Bootstrap", "Mantine UI"],
   },
+  {
+  title: "Software Design",
+  skills: [
+    "SOLID Principles",
+    "Clean Code",
+    "Object-Oriented Design"
+  ]
+},
   // { title: "Problem Solving", skills: ["DSA", "LeetCode", "Problem Solving"] },
 ];
 
